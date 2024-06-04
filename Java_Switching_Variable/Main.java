@@ -1,4 +1,4 @@
-package SwitchVariable;
+package Java_Switching_Variable;
 
 public class Main {
 

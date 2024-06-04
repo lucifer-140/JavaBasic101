@@ -1,4 +1,4 @@
-package variable;
+package Java_Variable;
 
 
 public class Main {

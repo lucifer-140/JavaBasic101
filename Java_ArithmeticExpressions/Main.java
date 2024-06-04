@@ -1,4 +1,4 @@
-package ArithmeticExpressions;
+package Java_ArithmeticExpressions;
 
 public class Main {
 
