@@ -1,4 +1,4 @@
-package Java_Output_Printf;
+package Java_Output_printf;
 
 public class Main {
 

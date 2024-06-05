@@ -1,4 +1,4 @@
-package Java_String_Methods;
+package Java_String_Method;
 
 public class Main {
 
