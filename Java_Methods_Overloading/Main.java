@@ -1,4 +1,4 @@
-package Java_Overloading_Methods;
+package Java_Methods_Overloading;
 
 public class Main {
 
