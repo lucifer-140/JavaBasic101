@@ -14,7 +14,7 @@ class Main {
 }
 
 //   created an object named obj of the class Main
-//   Main obj = new Main(8);    ---> constructor
+//   Main(8);    ---> constructor
 
 //   when the constructor is called, 'this' inside 
 //   the constructor is replaced by the object obj 

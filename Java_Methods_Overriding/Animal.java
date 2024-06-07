@@ -6,6 +6,7 @@ public class Animal {
 		System.out.println("The animal speaks");
 	}
 
-    
+
 }
+
 

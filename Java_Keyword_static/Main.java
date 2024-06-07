@@ -12,7 +12,10 @@ public class Main {
 		Friend friend3 = new Friend("admmin");
 		Friend friend4 = new Friend("test");
 		
-		// System.out.println(Friend.numberOfFriends);
+		// System.out.println(friend1.numberOfFriends);
+		// System.out.println(friend2.numberOfFriends);
+		// System.out.println(friend3.numberOfFriends);
+		// System.out.println(friend4.numberOfFriends);
 
         Friend.displayFriends();
 	}
