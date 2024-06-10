@@ -10,7 +10,7 @@ public class Human {
 	
 	Human(String name,int age,double weight){
 		
-        //example: from Main file, human1 object, this name will be = name
+        //example: from Main file, human1 object, 'this' name will be = name
 		this.name = name;
 		this.age = age;
 		this.weight = weight;
