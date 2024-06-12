@@ -32,6 +32,7 @@ public class Main {
 		for(String i : countries.keySet()) {
 			System.out.print(i+"\t"+"= ");
 			System.out.println(countries.get(i));
+
 		}
 		
 	}
