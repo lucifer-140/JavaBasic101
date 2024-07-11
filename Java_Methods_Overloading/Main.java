@@ -7,8 +7,8 @@ public class Main {
 		// overloaded methods = methods that share the same name but have different parameters
 		//						method name + parameters = method signature
 		
-		int x = add(1,2,3,4);
-		// int x = add(1,2);
+		// int x = add(1,2,3,4);
+		int x = add(1,2);
 		// int x = add(1,2,3);
 		// double x = add(1.0,2.0,3.0,4.0);
 		// double x = add(1.0,2.0,3.0);
